@@ -3,6 +3,8 @@ attrs==23.1.0
 cffi==1.15.1
 cfgv==3.3.1
 contourpy==1.0.7
+cx-Freeze==6.15.1
+cx-Logging==3.1.0
 cycler==0.11.0
 distlib==0.3.6
 filelock==3.12.0
@@ -10,6 +12,7 @@ flatbuffers==23.5.26
 fonttools==4.39.4
 identify==2.5.24
 kiwisolver==1.4.4
+lief==0.13.1
 matplotlib==3.7.1
 mediapipe==0.10.1
 nodeenv==1.8.0
