@@ -3,7 +3,7 @@
 
 [![GitHub Sponsor](https://img.shields.io/badge/-Sponsor-EA4AAA?logo=githubsponsors&logoColor=FFFFFF&style=flat-square)](https://github.com/sponsors/rajtilakjee)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=FFFFFF&style=flat-square)](https://twitter.com/rajtilakjee)
-[![MIT License](https://img.shields.io/github/license/rajtilakjee/SignLink?style=flat-square)]
+![MIT License](https://img.shields.io/github/license/rajtilakjee/SignLink?style=flat-square)
 
 
 ## Overview
