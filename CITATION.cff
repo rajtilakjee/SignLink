@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Bhattacharjee"
+    given-names: "Rajtilak"
+title: "SignLink"
+date-released: 2023-06-08
+url: "https://github.com/rajtilakjee/SignLink"
