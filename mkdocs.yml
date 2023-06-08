@@ -3,8 +3,6 @@ site_description: Breaking Barriers with Fingerspelling Technology
 site_author: Rajtilak Bhattacharjee
 site_url: https://rajtilakjee.github.io/SignLink/
 
-repo_url: https://github.com/rajtilakjee/SignLink
-
 theme:
   name: material
   logo: assets/logo.png
