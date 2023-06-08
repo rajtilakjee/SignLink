@@ -1,8 +1,5 @@
 # SignLink
 
-![GitHub License](https://img.shields.io/github/license/rajtilakjee/SignLink?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![Pre-commit](https://img.shields.io/badge/precommit-FAB040.svg?style=for-the-badge&logo=pre-commit&logoColor=black)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=FFFFFF&style=for-the-badge)](https://twitter.com/rajtilakjee)
 [![GitHub Sponsor](https://img.shields.io/badge/-Sponsor-EA4AAA?logo=githubsponsors&logoColor=FFFFFF&style=for-the-badge)](https://github.com/sponsors/rajtilakjee)
 
