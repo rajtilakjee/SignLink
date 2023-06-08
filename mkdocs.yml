@@ -13,7 +13,7 @@ theme:
     repo: fontawesome/brands/github
   features:
     - search.suggest
-    # - navigation.tabs
+    - navigation.tabs
     - navigation.sections
     - navigation.top
 
