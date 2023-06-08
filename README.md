@@ -40,7 +40,7 @@ We invite contributions from the open-source community to enhance SignLink and m
 
 ## License
 
-SignLink is released under the [GNU General Public License v3.0](LICENSE). This license grants you the freedom to use, modify, and distribute the code in accordance with the terms and conditions outlined in the license.
+SignLink is released under the [MIT License](LICENSE). This license grants you the freedom to use, modify, and distribute the code in accordance with the terms and conditions outlined in the license.
 
 ## Acknowledgments
 
