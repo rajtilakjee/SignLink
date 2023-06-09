@@ -52,8 +52,8 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji 
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
-copyright: >
-  Copyright &copy; 2023 Rajtilak Bhattacharjee –
+copyright: >-
+  Copyright &copy; 2023 Rajtilak Bhattacharjee
   <a href="#__consent">Change cookie settings</a>
 
 nav:
