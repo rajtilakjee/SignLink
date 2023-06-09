@@ -40,6 +40,15 @@ plugins:
   - search:
       lang: en
 
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji 
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+copyright: >
+  Copyright &copy; 2023 Rajtilak Bhattacharjee :octicons-heart-fill-16: –
+  <a href="#__consent">Change cookie settings</a>
+
 nav:
   - Home: index.md
   - Contributing Guide: contributing.md
