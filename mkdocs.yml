@@ -43,3 +43,4 @@ plugins:
 nav:
   - Home: index.md
   - Contributing Guide: contributing.md
+  - License: license.md
