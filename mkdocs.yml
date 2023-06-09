@@ -39,3 +39,7 @@ extra:
 plugins:
   - search:
       lang: en
+
+nav:
+  - Home: index.md
+  - Contributing Guide: contributing.md

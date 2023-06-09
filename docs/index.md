@@ -1,17 +1,24 @@
-# Welcome to MkDocs
+# SignLink Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to the SignLink documentation! This comprehensive guide will provide you with all the information you need to understand, set up, and utilize the features of SignLink, the Fingerspelling Communicator prototype designed to break barriers and empower communication for Deaf and hard-of-hearing individuals.
 
-## Commands
+## Introduction
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+The SignLink project aims to revolutionize communication for individuals who use sign language as their primary means of expression. By combining advanced machine learning algorithms and computer vision techniques, SignLink can recognize fingerspelling gestures and provide real-time subtitles and audio output. With its user-friendly interface and customizable options, SignLink offers an inclusive and accessible solution for efficient and seamless communication.
 
-## Project layout
+## Acknowledgement
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+1. Grushko, S. (2023)
+
+## Cite this work
+
+```
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Bhattacharjee"
+    given-names: "Rajtilak"
+title: "SignLink"
+date-released: 2023-06-08
+url: "https://github.com/rajtilakjee/SignLink"
+```
