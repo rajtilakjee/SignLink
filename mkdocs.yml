@@ -38,13 +38,6 @@ extra:
       link: https://www.linkedin.com/in/rajtilak/
     - icon: fontawesome/brands/discord
       link: https://discordapp.com/users/969666251536347146
-  consent:
-    title: Cookie consent
-    description: >-
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they're searching for. With your consent, you're helping us to
-      make our documentation better.
 
 plugins:
   - search:
@@ -56,8 +49,7 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: >-
-  Copyright &copy; 2023 Rajtilak Bhattacharjee - 
-  <a href="#__consent">Change cookie settings</a>
+  Copyright &copy; 2023 Rajtilak Bhattacharjee
 
 nav:
   - Home: index.md
