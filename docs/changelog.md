@@ -1,6 +1,6 @@
 # Change log
 
-1. v0.1.0-alpha1
+- v0.1.0-alpha1
 
  - Created using Google MediaPipe gesture recognition model
  - Can recognize 6-7 basic hand gestures
