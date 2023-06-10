@@ -61,5 +61,7 @@ copyright: >-
 
 nav:
   - Home: index.md
+  - Releases: releases.md
+  - Change log: changelog.md
   - Contributing Guide: contributing.md
   - License: license.md
