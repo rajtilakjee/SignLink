@@ -23,7 +23,7 @@ Welcome to the SignLink repository! SignLink is a groundbreaking Fingerspelling 
 
 Download the latest version of binaries from the [release page](https://github.com/rajtilakjee/SignLink/releases/).
 
-[![SignLink Demo](https://img.youtube.com/vi/ddt047vOdZk/sddefault.jpg)](https://www.youtube.com/watch?v=ddt047vOdZk)
+[![SignLink Demo](docs\assets\signlink.gif)](https://www.youtube.com/watch?v=ddt047vOdZk)
 
 ## Usage
 
