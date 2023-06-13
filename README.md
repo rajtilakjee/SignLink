@@ -24,7 +24,7 @@ Welcome to the SignLink repository! SignLink is a groundbreaking Fingerspelling 
 Download the latest version of binaries from the [release page](https://github.com/rajtilakjee/SignLink/releases/).
 
 <video width="320" height="240" controls>
-  <source src="docs\assets\SignLink.mp4" type="video/mp4">
+  <source src="docs/assets/SignLink.mp4" type="video/mp4">
 </video>
 
 ## Usage
