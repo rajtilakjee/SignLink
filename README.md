@@ -23,7 +23,7 @@ Welcome to the SignLink repository! SignLink is a groundbreaking Fingerspelling 
 
 Download the latest version of binaries from the [release page](https://github.com/rajtilakjee/SignLink/releases/).
 
-<video src='https://www.youtube.com/watch?v=ddt047vOdZk' width=180/>
+[![Now in Android: 55] (https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)](https://www.youtube.com/watch?v=ddt047vOdZk "Now in Android: 55")
 
 ## Usage
 
