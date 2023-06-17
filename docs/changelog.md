@@ -5,4 +5,3 @@
  - Can recognize 6-7 basic hand gestures
  - Recognized gestures are not a part of any sign language
  - Has medium accuracy
- - Accuracy cannot be adjusted by user
