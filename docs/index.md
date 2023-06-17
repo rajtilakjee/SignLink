@@ -9,8 +9,8 @@
 ![MIT License](https://img.shields.io/github/license/rajtilakjee/SignLink?style=flat-square)
 
 
-**Documentation:** https://rajtilakjee.github.io/SignLink
-**Source Code:** https://github.com/rajtilakjee/SignLink
+**Documentation:** [https://rajtilakjee.github.io/SignLink](https://rajtilakjee.github.io/SignLink)
+**Source Code:** [https://github.com/rajtilakjee/SignLink](https://github.com/rajtilakjee/SignLink)
 
 
 SignLink is a sign-language recognizer and interpreter that uses AI to recognize fingerspelling gestures and provide real-time subtitles and audio output. This helps people with difficulty hearing, and speaking to communicate better.
