@@ -1,16 +1,16 @@
 # SignLink
 
-<p style="text-align: center">*Breaking Barriers with Fingerspelling Technology*</p>
+*Breaking Barriers with Fingerspelling Technology*
 
-<p style="text-align: center">[![GitHub Sponsor](https://img.shields.io/badge/-Sponsor-EA4AAA?logo=githubsponsors&logoColor=FFFFFF&style=flat-square)](https://github.com/sponsors/rajtilakjee)
+[![GitHub Sponsor](https://img.shields.io/badge/-Sponsor-EA4AAA?logo=githubsponsors&logoColor=FFFFFF&style=flat-square)](https://github.com/sponsors/rajtilakjee)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=FFFFFF&style=flat-square)](https://twitter.com/rajtilakjee)
-![MIT License](https://img.shields.io/github/license/rajtilakjee/SignLink?style=flat-square)</p>
+![MIT License](https://img.shields.io/github/license/rajtilakjee/SignLink?style=flat-square)
 
-
+---
 **Documentation:** [https://rajtilakjee.github.io/SignLink](https://rajtilakjee.github.io/SignLink)
 
 **Source Code:** [https://github.com/rajtilakjee/SignLink](https://github.com/rajtilakjee/SignLink)
-
+---
 
 SignLink is a sign-language recognizer and interpreter that uses AI to recognize fingerspelling gestures and provide real-time subtitles and audio output. This helps people with difficulty hearing, and speaking to communicate better.
 
