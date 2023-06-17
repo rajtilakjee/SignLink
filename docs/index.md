@@ -1,6 +1,6 @@
 # SignLink
 
-![SignLink logo]()
+![SignLink logo](assets/logo.png)
 
 *Breaking Barriers with Fingerspelling Technology*
 
@@ -9,7 +9,7 @@
 ![MIT License](https://img.shields.io/github/license/rajtilakjee/SignLink?style=flat-square)
 
 
-**Documentation:** https://rajtilakjee.github.io/SignLink/
+**Documentation:** https://rajtilakjee.github.io/SignLink
 **Source Code:** https://github.com/rajtilakjee/SignLink
 
 
@@ -17,10 +17,10 @@ SignLink is a sign-language recognizer and interpreter that uses AI to recognize
 
 The key features are:
 
-- Sign-language recognition
-- Real-time audio-visual output
-- Localization
-- Easy to use
+- **Sign-language recognition**
+- **Real-time audio-visual output**
+- **Localization**
+- **Easy to use**
 
 ## Acknowledgement
 
