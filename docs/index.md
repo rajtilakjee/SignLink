@@ -1,17 +1,26 @@
-# SignLink Documentation
+# SignLink
 
-Welcome to SignLink! This comprehensive guide will provide you with all the information you need to understand, set up, and utilize the features of SignLink.
+![SignLink logo]()
 
-## Introduction
+*Breaking Barriers with Fingerspelling Technology*
 
-SignLink is a sign-language recognizer. It uses AI to recognize fingerspelling gestures and provide real-time subtitles and audio output.
+[![GitHub Sponsor](https://img.shields.io/badge/-Sponsor-EA4AAA?logo=githubsponsors&logoColor=FFFFFF&style=flat-square)](https://github.com/sponsors/rajtilakjee)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=FFFFFF&style=flat-square)](https://twitter.com/rajtilakjee)
+![MIT License](https://img.shields.io/github/license/rajtilakjee/SignLink?style=flat-square)
 
-## Features
 
-- Fingerspelling recognition
-- Real-time subtitles
+**Documentation:** https://rajtilakjee.github.io/SignLink/
+**Source Code:** https://github.com/rajtilakjee/SignLink
+
+
+SignLink is a sign-language recognizer and interpreter that uses AI to recognize fingerspelling gestures and provide real-time subtitles and audio output. This helps people with difficulty hearing, and speaking to communicate better.
+
+The key features are:
+
+- Sign-language recognition
+- Real-time audio-visual output
 - Localization
-- Audio output and recognition
+- Easy to use
 
 ## Acknowledgement
 
@@ -29,3 +38,7 @@ title: "SignLink"
 date-released: 2023-06-08
 url: "https://github.com/rajtilakjee/SignLink"
 ```
+
+## License
+
+This project is licensed under the terms of the [MIT license](license.md).
