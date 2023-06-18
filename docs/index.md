@@ -1,17 +1,9 @@
 # SignLink
+Breaking Barriers with Fingerspelling Technology
 
-<p align="center">
-  <em>Breaking Barriers with Fingerspelling Technology</em>
-</p>
-<p align="center">
-
-  ![GitHub Sponsor](https://img.shields.io/badge/-Sponsor-EA4AAA?logo=githubsponsors&logoColor=FFFFFF&style=flat-square)
-
-  ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=FFFFFF&style=flat-square)
-
-  ![MIT License](https://img.shields.io/github/license/rajtilakjee/SignLink?style=flat-square)
-
-</p>
+![GitHub Sponsor](https://img.shields.io/badge/-Sponsor-EA4AAA?logo=githubsponsors&logoColor=FFFFFF&style=flat-square)
+![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=FFFFFF&style=flat-square)
+![MIT License](https://img.shields.io/github/license/rajtilakjee/SignLink?style=flat-square)
 
 ---
 
